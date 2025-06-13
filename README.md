@@ -3,7 +3,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Red_star.svg/220px-Red_star.svg.png" width="120" align="right" />
 
 ```csharp
-// Jayden / gone
 github  →  github.com/cryptoroute
 discord →  @attacklist
 server  →  discord.gg/ashburns
