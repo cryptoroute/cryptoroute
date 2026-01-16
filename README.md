@@ -4,6 +4,6 @@
 
 ```csharp
 github  →  github.com/cryptoroute
-discord →  @attacklist
+discord →  @yknow
 server  →  discord.gg/ashburns
-web     →  sybau.lol
+web     →  culprit.lol
