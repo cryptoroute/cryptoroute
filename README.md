@@ -4,6 +4,4 @@
 
 ```csharp
 github  →  github.com/cryptoroute
-discord →  @yknow
-server  →  discord.gg/ashburns
-web     →  culprit.lol
+discord →  @x____v
